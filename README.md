@@ -14,11 +14,7 @@
 ![Working of OpenCV Face detector](https://github.com/aakashjhawar/face-recognition-using-opencv/blob/master/images/openface.jpg)
 
 ## Getting Started
-How to use
-```    
-git clone https://github.com/aakashjhawar/face-recognition-using-opencv
-cd face-recognition-using-opencv
-```
+
  - Create dataset of face images.
  - Place the face images in dataset folder.
  - Extract facial embeddings.
